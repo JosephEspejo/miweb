@@ -1,0 +1,2 @@
+.env
+node_module/        //Esto es un ejemplo de ignorar una carpeta si estamos trabajando con base de datos o algo asi xd
